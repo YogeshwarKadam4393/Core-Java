@@ -1,0 +1,11 @@
+package com.staticAndInheritanceScenarioQuestions;
+
+public class Example8_Parent {
+	
+	int x = 10;
+	
+	void show() {
+		System.out.println("Parent");
+	}
+
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="01_Single_Inheritance/01_Zomato"/>
+	<classpathentry kind="src" path="01_Single_Inheritance/02_Amazon"/>
+	<classpathentry kind="src" path="01_Single_Inheritance/03_Netflix"/>
+	<classpathentry kind="src" path="02_Multilevel_Inheritance/01_Netflix"/>
+	<classpathentry kind="src" path="02_Multilevel_Inheritance/02_Banking"/>
+	<classpathentry kind="src" path="02_Multilevel_Inheritance/03_Vehicle"/>
+	<classpathentry kind="src" path="03_Hierarchical_Inheritance/01_PhonePe"/>
+	<classpathentry kind="src" path="03_Hierarchical_Inheritance/03_Amazon"/>
+	<classpathentry kind="src" path="04_Multiple_Inheritance/01_GooglePay"/>
+	<classpathentry kind="src" path="04_Multiple_Inheritance/02_SmartHome"/>
+	<classpathentry kind="src" path="04_Multiple_Inheritance/03_ECommerce"/>
+	<classpathentry kind="src" path="05_Hybrid_Inheritance/01_Zomato"/>
+	<classpathentry kind="src" path="05_Hybrid_Inheritance/02_Banking"/>
+	<classpathentry kind="src" path="05_Hybrid_Inheritance/03_ECommerce"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
