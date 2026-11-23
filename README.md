@@ -1,24 +1,33 @@
 # Core Java – Concepts & Practical Projects
 
-Welcome to my Core Java repository! 
+Welcome to my Core Java repository!
 
-This repository contains my Core Java learning journey, practical implementations, and hands-on projects. It demonstrates my understanding of Java programming fundamentals and Object-Oriented Programming concepts.
+This repository contains my hands-on practice, Java programming concepts, and multiple console-based projects developed during my Java Full Stack training.
 
-## 🛠️ Technologies Used
+It covers Java fundamentals, Object-Oriented Programming, Collections Framework, Exception Handling, File Handling, JDBC, and practical application development.
+
+## 🛠️ Technologies & Tools
 
 - Java
+- JDBC
+- MySQL
 - Object-Oriented Programming (OOP)
 - Collections Framework
-- Exception Handling
 - File Handling
-- Regular Expressions (Regex)
 - Eclipse IDE
 
 ## 📚 Topics Covered
 
-- Java Fundamentals
-- Data Types and Variables
-- Operators and Control Statements
+### Core Java Fundamentals
+- Variables and Data Types
+- Operators
+- Conditional Statements
+- Loops
+- Arrays
+- Strings
+- Methods and Return Types
+
+### Object-Oriented Programming
 - Classes and Objects
 - Constructors
 - Inheritance
@@ -26,31 +35,66 @@ This repository contains my Core Java learning journey, practical implementation
 - Abstraction
 - Encapsulation
 - Method Overloading and Overriding
-- Arrays and Strings
-- Collections Framework
-- Exception Handling
-- File Handling
-- Regular Expressions
+- Protected Keyword
+- toString() Method
 
-## 🚀 Projects
+### Advanced Java Concepts
+- Collections Framework
+- List, Set and Map
+- Comparable and Comparator
+- Aggregations
+- Exception Handling
+- Serialization and Deserialization
+- File Handling
+
+### JDBC
+- JDBC Architecture
+- Database Connectivity
+- CRUD Operations
+- PreparedStatement
+- Database Integration
+
+## 🚀 Practical Projects
 
 ### 1. Bank Application
+Developed multiple versions of a Bank Application using Arrays, OOP concepts, and File Handling.
 
-Developed a console-based Bank Application using Core Java and Object-Oriented Programming concepts.
+**Features:**
+- Account management
+- Deposit and withdrawal operations
+- Minimum balance validation
+- Input validation
+- File-based data storage
 
-**Key Features:**
-- Account creation and management.
-- Deposit and withdrawal operations.
-- Minimum balance validation.
-- Input validation using Regular Expressions.
-- File handling to store account information.
-- Implemented inheritance and abstraction.
+### 2. Parking Management System
+Implemented parking management applications using Arrays and File Handling.
 
-**Concepts Used:** Core Java, OOP, Inheritance, Abstraction, Encapsulation, Exception Handling, Regex and File Handling.
+### 3. Class Management System
+Developed a collection-based and JDBC-based Class Management System.
 
-## 🎯 Objective
+### 4. User Management System
+Implemented a User Management System using Java programming concepts.
 
-To strengthen Java programming fundamentals through practical implementation and develop problem-solving skills.
+### 5. JDBC Bank Application
+Developed a database-connected Bank Application using JDBC.
+
+## 📂 Repository Structure
+
+- Arrays
+- OOPS
+- Collection Framework
+- Exception Handling
+- File Handling
+- JDBC
+- Serialization and Deserialization
+- Bank Application Projects
+- Parking Management System
+- Class Management System
+- User Management System
+
+## 🎯 Learning Objective
+
+To build a strong foundation in Java development through hands-on coding, practical implementations, and real-world problem-solving projects.
 
 ## 👨‍💻 Author
 
